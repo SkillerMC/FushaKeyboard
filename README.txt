@@ -22,3 +22,4 @@
 
 البناء: افتح المشروع في Android Studio ثم Build > Build APK(s)، أو ادفعه
 لـ GitHub (فيه GitHub Actions مُعد مسبقًا يبنيه تلقائيًا).
+
