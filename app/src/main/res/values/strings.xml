@@ -1,0 +1,3 @@
+<resources>
+    <string name="accessibility_service_description">تتيح لتطبيق فصحى قراءة نص الحقل المفعّل حاليًا وتعديله إلى فصحى عند الضغط على الفقاعة العائمة. لا يقرأ أي شيء آخر ولا يعمل إلا عند ضغط الفقاعة.</string>
+</resources>
